@@ -1,4 +1,7 @@
 # Computational High-Entropy Alloy Tools
+
+### NB! This repository is no longer being updated. The up-to-date version is found [here](https://github.com/catalyticmaterials/CHEAT)
+
 CHEAT is a set of Python modules for regression of adsorption energies and modeling catalysis on high-entropy alloys.
 This modeling procedure is described in detail here:
 
